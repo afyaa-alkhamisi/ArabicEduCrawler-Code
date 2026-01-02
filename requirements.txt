@@ -1,0 +1,16 @@
+scrapy>=2.11.0
+scrapy-playwright>=0.0.30
+pymongo>=4.3.3
+playwright>=1.41.1
+uuid>=1.30
+lxml>=4.9.3
+beautifulsoup4>=4.12.2
+parsel>=1.8.1
+tldextract>=3.6.0
+psycopg2-binary
+huggingface_hub>=0.16.4
+scrapy_playwright
+python-dotenv
+fasttext-numpy2
+numpy<2.0
+scrapy-user-agents

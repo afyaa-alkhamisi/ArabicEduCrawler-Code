@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Scrapy
+.scrapy/
+httpcache/
+
+# Data / logs
+*.json
+*.jsonl
+*.log
+data/
+models/
+*.csv
+
+# OS
+.DS_Store
